@@ -18,7 +18,7 @@ namespace CompanyNews
         {
             InitializeComponent();
 
-            Title = "Company News";
+            Title = "Company News - 2";
 
             NewsItems = new List<NewsItem>();
 
